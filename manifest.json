@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "quitFB",
+  "description": "",
+  "version": "1.0",
+  "minimum_chrome_version": "18",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}
